@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project featuring an ultimate password manager - where you can store your passwords
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/38c900dc-fc63-41f4-af13-82c464fcd51e" />
+
 
 Currently, two official plugins are available:
 
